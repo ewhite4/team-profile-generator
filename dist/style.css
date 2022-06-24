@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+header {
+    background-color: aqua;
+    margin: 20px;
+}
+
+.card-header {
+    background: cadetblue;
+}
+
+.card-body {
+    color: purple;
+}
