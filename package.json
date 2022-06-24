@@ -1,0 +1,22 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "team-profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ewhite4/team-profile-generator.git"
+  },
+  "author": "Evin White",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ewhite4/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/ewhite4/team-profile-generator#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
